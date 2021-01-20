@@ -1,4 +1,3 @@
-
 const Engine = Matter.Engine;
 const World = Matter.World;
 const Bodies = Matter.Bodies;
@@ -11,7 +10,7 @@ var world,boy;
 var launchingForce=100;
 
 function preload(){
-	boy=loadImage("images/boy.png");
+	boy=loadImage("boy.png");
   }
 
 function setup() {
