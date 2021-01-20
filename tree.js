@@ -1,5 +1,5 @@
-class tree
-{
+class tree{
+	
 	constructor(x,y)
 	{
 		this.x=x;
